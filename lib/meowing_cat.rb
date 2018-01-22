@@ -5,5 +5,8 @@ class Cat
   def meow
     puts "meow!"
   end
-  
+
 end
+
+nala = Cat.new
+nala.meow
