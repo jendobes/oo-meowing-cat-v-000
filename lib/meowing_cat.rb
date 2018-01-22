@@ -7,6 +7,3 @@ class Cat
   end
 
 end
-
-nala = Cat.new
-nala.meow
